@@ -1,0 +1,17 @@
+* {
+    font-family: Garamond, sans-serif;
+}
+
+.dark {
+    background-color: black;
+    color: chartreuse;
+}
+
+h1 {
+    background-color: rgb(19, 153, 53);
+    color: rgb(8, 6, 7);
+}
+
+ul {
+    color: rgb(112, 34, 108);
+}
